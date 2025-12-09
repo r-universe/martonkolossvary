@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "RIA"]
+	path = RIA
+	url = https://github.com/martonkolossvary/ria
 [submodule "parseRPDR"]
 	path = parseRPDR
 	url = https://github.com/martonkolossvary/parserpdr
